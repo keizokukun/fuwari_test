@@ -1,0 +1,4 @@
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "tarailife-post-comments"
+database_id = "f9f75624-63d3-4ebb-bc83-54d23dc413d0"
